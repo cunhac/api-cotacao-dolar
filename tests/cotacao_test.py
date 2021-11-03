@@ -1,4 +1,4 @@
-from cotacao import cotacao_dolar
+from ..src.cotacao import cotacao_dolar
 
 def test_cotacao_cotacao_dolar():
     venda,compra = cotacao_dolar("10-05-2021")
