@@ -66,16 +66,16 @@ api_cotacao_dolar/
 * `main.py`:
 <br>
 
-    <p>- consta os inputs das datas para a realização da cotação, como também, a conversão dessas datas para o padrão solicitado pelo site responsável pela API.</p>  
-    <p>O retorno da API será estruturado em um dicionário.
-    A função print_cotacao realiza a configuração da visualização das informações disponíveis no dicionário.</p> 
-    <p> O arquivo main.py é responsável por rodar o código. </p>
+    - consta os inputs das datas para a realização da cotação, como também, a conversão dessas datas para o padrão solicitado pelo site responsável pela API. 
+    O retorno da API será estruturado em um dicionário.
+    A função print_cotacao realiza a configuração da visualização das informações disponíveis no dicionário. 
+    O arquivo main.py é responsável por rodar o código.
 
 <br>
 
 * `requirements.txt`: 
 <br>
 
-    <p>requests==2.26.0</p> 
-           pytest==6.2.5</p>
+    requests==2.26.0
+    pytest==6.2.5
 <br>
