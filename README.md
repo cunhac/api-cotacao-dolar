@@ -73,9 +73,13 @@ api_cotacao_dolar/
 
 <br>
 
-* `requirements.txt`: 
-<br>
+* `requirements.dev`: 
+<br/>
 
-    requests==2.26.0
     pytest==6.2.5
 <br>
+
+* `requirements.txt`: 
+<br/>
+
+    requests==2.26.0
